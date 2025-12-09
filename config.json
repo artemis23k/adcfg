@@ -2,7 +2,7 @@
   "apps": [
     {
       "id": "default",
-      "reward": "unityads",
+      "reward": "admob",
       "interstitial": "unityads"
     },
     {
