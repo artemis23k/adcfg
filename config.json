@@ -1,10 +1,14 @@
 {
-  "default": {
-    "reward": "unityads",
-    "interstitial": "unityads"
-  },
-  "second": {
-    "reward": "unityads",
-    "interstitial": "unityads"
-  }
+  "apps": [
+    {
+      "id": "default",
+      "reward": "unityads",
+      "interstitial": "unityads"
+    },
+    {
+      "id": "second",
+      "reward": "unityads",
+      "interstitial": "unityads"
+    }
+  ]
 }
