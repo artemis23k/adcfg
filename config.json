@@ -9,6 +9,11 @@
       "id": "nanik",
       "reward": "unityads",
       "interstitial": "unityads"
+    },
+    {
+      "id": "tam",
+      "reward": "unityads",
+      "interstitial": "unityads"
     }
   ]
 }
