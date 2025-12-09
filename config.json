@@ -3,7 +3,7 @@
     {
       "id": "default",
       "reward": "admob",
-      "interstitial": "unityads"
+      "interstitial": "admob"
     },
     {
       "id": "second",
