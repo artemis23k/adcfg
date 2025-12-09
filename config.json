@@ -1,0 +1,10 @@
+{
+  "default": {
+    "reward": "unityads",
+    "interstitial": "unityads"
+  },
+  "second": {
+    "reward": "unityads",
+    "interstitial": "unityads"
+  }
+}
