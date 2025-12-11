@@ -22,7 +22,7 @@
     },
     {
       "id": "winh",
-      "reward": "admob",
+      "reward": "unityads",
       "interstitial": "admob"
     }
   ]
