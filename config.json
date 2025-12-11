@@ -19,6 +19,11 @@
       "id": "flp",
       "reward": "admob",
       "interstitial": "admob"
+    },
+    {
+      "id": "winh",
+      "reward": "admob",
+      "interstitial": "admob"
     }
   ]
 }
