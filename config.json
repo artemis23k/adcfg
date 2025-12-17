@@ -22,8 +22,8 @@
     },
     {
       "id": "winh",
-      "reward": "unityads",
-      "interstitial": "unityads"
+      "reward": "admob",
+      "interstitial": "admob"
     }
   ]
 }
