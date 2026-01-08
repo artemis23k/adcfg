@@ -27,8 +27,8 @@
     },
     {
       "id": "lambda",
-      "reward": "unity",
-      "interstitial": "unity"
+      "reward": "admob",
+      "interstitial": "admob"
     }
   ]
 }
