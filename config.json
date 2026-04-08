@@ -22,8 +22,8 @@
     },
     {
       "id": "winh",
-      "reward": "admob",
-      "interstitial": "admob"
+      "reward": "unity",
+      "interstitial": "unity"
     },
     {
       "id": "lambda",
