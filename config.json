@@ -29,6 +29,11 @@
       "id": "lambda",
       "reward": "admob",
       "interstitial": "admob"
+    },
+    {
+      "id": "royal",
+      "reward": "unity",
+      "interstitial": "unity"
     }
   ]
 }
