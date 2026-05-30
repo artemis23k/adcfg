@@ -34,6 +34,11 @@
       "id": "royal",
       "reward": "unity",
       "interstitial": "unity"
+    },
+    {
+      "id": "kick",
+      "reward": "unity",
+      "interstitial": "unity"
     }
   ]
 }
