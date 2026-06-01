@@ -32,8 +32,8 @@
     },
     {
       "id": "royal",
-      "reward": "unity",
-      "interstitial": "unity"
+      "reward": "admob",
+      "interstitial": "admob"
     },
     {
       "id": "kick",
