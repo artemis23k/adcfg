@@ -37,8 +37,8 @@
     },
     {
       "id": "kick",
-      "reward": "unity",
-      "interstitial": "unity"
+      "reward": "admob",
+      "interstitial": "admob"
     }
   ]
 }
